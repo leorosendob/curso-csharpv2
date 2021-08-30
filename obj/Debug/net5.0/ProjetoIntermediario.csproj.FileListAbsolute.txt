@@ -1,0 +1,16 @@
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\bin\Debug\net5.0\ProjetoIntermediario.exe
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\bin\Debug\net5.0\ProjetoIntermediario.deps.json
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\bin\Debug\net5.0\ProjetoIntermediario.runtimeconfig.json
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\bin\Debug\net5.0\ProjetoIntermediario.runtimeconfig.dev.json
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\bin\Debug\net5.0\ProjetoIntermediario.dll
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\bin\Debug\net5.0\ref\ProjetoIntermediario.dll
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\bin\Debug\net5.0\ProjetoIntermediario.pdb
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\obj\Debug\net5.0\ProjetoIntermediario.csprojAssemblyReference.cache
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\obj\Debug\net5.0\ProjetoIntermediario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\obj\Debug\net5.0\ProjetoIntermediario.AssemblyInfoInputs.cache
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\obj\Debug\net5.0\ProjetoIntermediario.AssemblyInfo.cs
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\obj\Debug\net5.0\ProjetoIntermediario.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\obj\Debug\net5.0\ProjetoIntermediario.dll
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\obj\Debug\net5.0\ref\ProjetoIntermediario.dll
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\obj\Debug\net5.0\ProjetoIntermediario.pdb
+C:\Users\leonardo.batista\Documents\c#completo\ProjetoIntermediario\ProjetoIntermediario\obj\Debug\net5.0\ProjetoIntermediario.genruntimeconfig.cache
